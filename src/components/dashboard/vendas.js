@@ -1084,7 +1084,7 @@ export const Vendas = (props) => {
               tickSize: 10,
               tickPadding: 5,
               tickRotation: 0,
-              legend: "preço na vertical, grupo na horizontal",
+              legend: "Marcas",
               legendPosition: "middle",
               legendOffset: -46,
             }}
